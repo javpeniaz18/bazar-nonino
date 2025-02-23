@@ -1,0 +1,21 @@
+ul > li:not(:first-child) {
+    background-color: #373737;
+    height: 40px;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.carrito{
+    background-color: #5a815a;
+    height: 40px;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    font-size: 17px;
+    font-weight: 500;
+}

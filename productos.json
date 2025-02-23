@@ -1,0 +1,107 @@
+[
+  {
+    "nombre": "Taza de cerámica",
+    "foto": "https://example.com/taza.jpg",
+    "descripcion": "Taza de cerámica blanca con capacidad de 350 ml, ideal para café o té.",
+    "precio": 1200,
+    "categoria": "Cocina"
+  },
+  {
+    "nombre": "Set de cubiertos de acero inoxidable",
+    "foto": "https://example.com/cubiertos.jpg",
+    "descripcion": "Juego de 24 piezas de cubiertos de acero inoxidable con diseño elegante.",
+    "precio": 8500,
+    "categoria": "Cocina"
+  },
+  {
+    "nombre": "Tabla de cortar de bambú",
+    "foto": "https://example.com/tabla.jpg",
+    "descripcion": "Tabla de cortar ecológica hecha de bambú, resistente y duradera.",
+    "precio": 3200,
+    "categoria": "Cocina"
+  },
+  {
+    "nombre": "Organizador de maquillaje acrílico",
+    "foto": "https://example.com/organizador.jpg",
+    "descripcion": "Organizador transparente con múltiples compartimentos para cosméticos.",
+    "precio": 4500,
+    "categoria": "Organización"
+  },
+  {
+    "nombre": "Reloj de pared moderno",
+    "foto": "https://example.com/reloj.jpg",
+    "descripcion": "Reloj de pared con diseño minimalista y mecanismo silencioso.",
+    "precio": 5700,
+    "categoria": "Decoración"
+  },
+  {
+    "nombre": "Juego de frascos herméticos",
+    "foto": "https://example.com/frascos.jpg",
+    "descripcion": "Set de 3 frascos de vidrio con tapas de bambú, ideales para almacenamiento de alimentos.",
+    "precio": 6800,
+    "categoria": "Cocina"
+  },
+  {
+    "nombre": "Lámpara LED recargable",
+    "foto": "https://example.com/lampara.jpg",
+    "descripcion": "Lámpara portátil con luz LED ajustable, recargable por USB.",
+    "precio": 3900,
+    "categoria": "Iluminación"
+  },
+  {
+    "nombre": "Porta llaves de pared",
+    "foto": "https://example.com/porta_llaves.jpg",
+    "descripcion": "Práctico porta llaves de madera con ganchos y espacio para cartas.",
+    "precio": 2500,
+    "categoria": "Organización"
+  },
+  {
+    "nombre": "Dispensador de jabón automático",
+    "foto": "https://example.com/dispensador.jpg",
+    "descripcion": "Dispensador con sensor de movimiento para jabón líquido o desinfectante.",
+    "precio": 5100,
+    "categoria": "Baño"
+  },
+  {
+    "nombre": "Cesta organizadora de tela",
+    "foto": "https://example.com/cesta.jpg",
+    "descripcion": "Cesta multiusos plegable de tela resistente, ideal para ropa o juguetes.",
+    "precio": 2800,
+    "categoria": "Organización"
+  },
+  {
+    "nombre": "Set de especieros magnéticos",
+    "foto": "https://example.com/especieros.jpg",
+    "descripcion": "Juego de 6 especieros de acero inoxidable con imanes para fijarlos en la nevera.",
+    "precio": 6200,
+    "categoria": "Cocina"
+  },
+  {
+    "nombre": "Pizarra blanca con marcador",
+    "foto": "https://example.com/pizarra.jpg",
+    "descripcion": "Pizarra de escritorio con superficie blanca borrable y marcador incluido.",
+    "precio": 3300,
+    "categoria": "Oficina"
+  },
+  {
+    "nombre": "Jarra de vidrio con tapa",
+    "foto": "https://example.com/jarra.jpg",
+    "descripcion": "Jarra de vidrio resistente con capacidad de 1.5L y tapa hermética.",
+    "precio": 4400,
+    "categoria": "Cocina"
+  },
+  {
+    "nombre": "Perchero de pie minimalista",
+    "foto": "https://example.com/perchero.jpg",
+    "descripcion": "Perchero de metal con diseño moderno, ideal para entrada o dormitorio.",
+    "precio": 8900,
+    "categoria": "Hogar"
+  },
+  {
+    "nombre": "Almohadón decorativo",
+    "foto": "https://example.com/almohadon.jpg",
+    "descripcion": "Cojín decorativo de 45x45 cm con funda de algodón y diseño estampado.",
+    "precio": 3600,
+    "categoria": "Decoración"
+  }
+]

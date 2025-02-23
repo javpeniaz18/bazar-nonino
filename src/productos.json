@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nombre": "Taza de Cerámica",
+    "descripcion": "Taza de cerámica blanca con capacidad de 350ml.",
+    "precio": 150.0,
+    "categoria": "Hogar",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_702239-MLA42282779651_062020-O.webp"
+  },
+  {
+    "id": 2,
+    "nombre": "Reloj de Pared",
+    "descripcion": "Reloj de pared moderno con números grandes y diseño minimalista.",
+    "precio": 450.0,
+    "categoria": "Decoración",
+    "image": "https://imagenes.elpais.com/resizer/v2/OSUGFO3P4JBJ5OPVLPNCEEKOXM.png?auth=b6506d5bff05837c1165719c00acfc50d98320a623bac8c4107d3293ae5f99d0&width=1960&height=1470&smart=true"
+  },
+  {
+    "id": 3,
+    "nombre": "Set de Cubiertos",
+    "descripcion": "Juego de cubiertos de acero inoxidable para 4 personas.",
+    "precio": 650.0,
+    "categoria": "Cocina",
+    "image": "https://letotoncasa.com.ar/cdn/shop/products/2_abe4a300-1a89-4eea-9c5b-83bf8ef26dd2_1200x1200.jpg?v=1715027531"
+  },
+  {
+    "id": 4,
+    "nombre": "Lámpara de Escritorio",
+    "descripcion": "Lámpara LED ajustable con tres niveles de intensidad.",
+    "precio": 320.0,
+    "categoria": "Iluminación",
+    "image": "https://acdn.mitiendanube.com/stores/871/147/products/dsc_04381-eeb6178ba1f79b033816534090729830-1024-1024.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Cojín Decorativo",
+    "descripcion": "Cojín de 45x45 cm con funda de lino y relleno de algodón.",
+    "precio": 220.0,
+    "categoria": "Decoración",
+    "image": "https://arredo.vtexassets.com/assets/vtex.file-manager-graphql/images/8c5fb615-a443-4595-863c-d6fa6e20782c___86b94f23e18c225c9ebdfb617313717b.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Botella Térmica",
+    "descripcion": "Botella de acero inoxidable de 500ml, mantiene la temperatura por 12 horas.",
+    "precio": 280.0,
+    "categoria": "Accesorios",
+    "image": "https://acdn-us.mitiendanube.com/stores/564/930/products/20240314_091954-8ccc0cf1d94affbd6017105966634619-1024-1024.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Perchero de Madera",
+    "descripcion": "Perchero de madera natural con 5 ganchos de metal.",
+    "precio": 550.0,
+    "categoria": "Organización",
+    "image": "https://acdn.mitiendanube.com/stores/912/364/products/perchero-plegable-de-pino-en-uso11-6e9291932577ce6ff716636984453674-640-0.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Espejo Redondo",
+    "descripcion": "Espejo decorativo con marco de madera en tono nogal.",
+    "precio": 780.0,
+    "categoria": "Decoración",
+    "image": "https://acdn.mitiendanube.com/stores/980/543/products/negro-2-1308e02c0705eff16f17087033028672-1024-1024.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Organizador de Escritorio",
+    "descripcion": "Organizador de acrílico con compartimentos para bolígrafos y papelería.",
+    "precio": 180.0,
+    "categoria": "Oficina",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_669239-MLA42715190252_072020-O.webp"
+  },
+  {
+    "id": 10,
+    "nombre": "Set de Velas Aromáticas",
+    "descripcion": "Set de 3 velas con fragancia a lavanda, vainilla y canela.",
+    "precio": 350.0,
+    "categoria": "Aromaterapia",
+    "image": "https://cdn.shopify.com/s/files/1/0732/7734/1971/files/A02V___VELA_AROMATICA_6X6_VAINILLA_c.jpg?v=1686837328"
+  },
+  {
+    "id": 11,
+    "nombre": "Almohada Ortopédica",
+    "descripcion": "Almohada viscoelástica con funda transpirable, ideal para descanso cervical.",
+    "precio": 480.0,
+    "categoria": "Descanso",
+    "image": "https://i.ebayimg.com/thumbs/images/g/kTIAAOSwM5xnWtjM/s-l1200.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Maceta de Cerámica",
+    "descripcion": "Maceta pequeña de cerámica blanca, ideal para suculentas o cactus.",
+    "precio": 190.0,
+    "categoria": "Jardinería",
+    "image": "https://acdn-us.mitiendanube.com/stores/001/689/211/products/ceramica-comun-b1-c99725698e4961006116496963464921-480-0.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Toalla de Baño",
+    "descripcion": "Toalla de algodón 100% ultra absorbente y suave al tacto.",
+    "precio": 320.0,
+    "categoria": "Baño",
+    "image": "https://arredo.vtexassets.com/assets/vtex.file-manager-graphql/images/0c63d46e-7108-4058-9a3c-3cbddea5e253___c997a2a50f25086d449e9754894d14c5.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Portarretratos de Madera",
+    "descripcion": "Portarretratos en madera rústica para fotos de 10x15 cm.",
+    "precio": 250.0,
+    "categoria": "Decoración",
+    "image": "https://dcdn.mitiendanube.com/stores/929/588/products/20220831_144558-01-121-6054b3b090f4e89b3e16620407254580-1024-1024.jpeg"
+  },
+  {
+    "id": 15,
+    "nombre": "Cortina de Ducha",
+    "descripcion": "Cortina impermeable con diseño minimalista y ganchos incluidos.",
+    "precio": 420.0,
+    "categoria": "Baño",
+    "image": "https://acdn-us.mitiendanube.com/stores/001/282/794/products/arenalibelulasgris1-830a5eedb14d4aa43015982274853107-1024-1024.jpg"
+  }
+]
