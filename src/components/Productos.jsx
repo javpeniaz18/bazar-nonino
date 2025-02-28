@@ -28,6 +28,7 @@ const Productos = ({ cart, setCart }) => {
   const [page, setPage] = useState(1);
 
   useEffect(() => {
+    console.log("Productos cargados: ", filteredItemsData); // Console log de los productos
     setCounts(
       filteredItemsData.reduce((acc, item) => ({ ...acc, [item.id]: 0 }), {})
     );
@@ -67,7 +68,7 @@ const Productos = ({ cart, setCart }) => {
               nombre: item.nombre,
               precio: item.precio,
               cantidad: counts[item.id],
-              imagen: item.image,
+              imagen: item.imagenUrl, // Usamos imageUrl aquí
             },
           ];
         }
@@ -97,9 +98,11 @@ const Productos = ({ cart, setCart }) => {
               <div className="relative">
                 <CardMedia
                   sx={{ height: 140 }}
-                  image={item.image}
+                  image={item.imagenUrl} // Deberías estar seguro de que esta URL es correcta
                   title={item.nombre}
                 />
+                {!item.imagenUrl && <p>Imagen no disponible</p>}{" "}
+                {/* Mostrar mensaje si no hay imagen */}
                 {/* Círculo con el precio */}
                 <div className="absolute top-2 right-2 bg-white text-black rounded-full p-2 font-semibold">
                   ${item.precio}
